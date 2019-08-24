@@ -1,0 +1,767 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai 1 HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/RAI-1_o.jpg" group-title="TOP ITALIA",Rai 1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/65
+#EXTINF:-1 tvg-ID="Rai1.it" tvg-name="Rai 1 SD" tvg-logo="http://www.sat-address.com/f/pics/Stations/RAI-1_o.jpg" group-title="",Rai 1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16492
+#EXTINF:-1 tvg-ID="Rai2.it" tvg-name="Rai 2 HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/RAI-2_o.jpg" group-title="TOP ITALIA",Rai 2 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/144
+#EXTINF:-1 tvg-ID="Rai2.it" tvg-name="Rai 2 SD" tvg-logo="http://www.sat-address.com/f/pics/Stations/RAI-2_o.jpg" group-title="TOP ITALIA",Rai 2 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16493
+#EXTINF:-1 tvg-ID="Rai3.it" tvg-name="Rai 3 HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/RAI-3-IT_o.jpg" group-title="TOP ITALIA",Rai 3 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/49
+#EXTINF:-1 tvg-ID="Rai3.it" tvg-name="Rai 3 SD" tvg-logo="http://www.sat-address.com/f/pics/Stations/RAI-3-IT_o.jpg" group-title="TOP ITALIA",Rai 3 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16494
+#EXTINF:-1 tvg-ID="Rete4.it" tvg-name="Rete 4 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Rete-4_o.jpg" group-title="TOP ITALIA",Rete 4 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/36229
+#EXTINF:-1 tvg-ID="Rete4.it" tvg-name="Rete 4 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Rete-4_o.jpg" group-title="TOP ITALIA",Rete 4 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/153
+#EXTINF:-1 tvg-ID="Canale5.it" tvg-name="Canale 5 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Canale-5_o.jpg" group-title="TOP ITALIA",Canale 5 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/57
+#EXTINF:-1 tvg-ID="Canale5.it" tvg-name="Canale 5 SD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Canale-5_o.jpg" group-title="TOP ITALIA",Canale 5 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16495
+#EXTINF:-1 tvg-ID="Italia1.it" tvg-name="Italia 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Italia-1_o.jpg" group-title="TOP ITALIA",Italia 1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/58
+#EXTINF:-1 tvg-ID="Italia1.it" tvg-name="Italia 1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Italia-1_o.jpg" group-title="TOP ITALIA",Italia 1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16497
+#EXTINF:-1 tvg-ID="RSILa1.ch" tvg-name="RSI La 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RSI-La-1_o.jpg" group-title="SVIZZERA",RSI La 1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/56
+#EXTINF:-1 tvg-ID="RSILa1.ch" tvg-name="RSI La 1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RSI-La-1_o.jpg" group-title="SVIZZERA",RSI La 1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27531
+#EXTINF:-1 tvg-ID="RSILa2.ch" tvg-name="RSI La 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RSI-La-2_o.jpg" group-title="SVIZZERA",RSI La 2 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/152
+#EXTINF:-1 tvg-ID="RSILa2.ch" tvg-name="RSI La 2 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RSI-La-2_o.jpg" group-title="SVIZZERA",RSI La 2 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27532
+#EXTINF:-1 tvg-ID="La7.it" tvg-name="La 7 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/La-7_o.jpg" group-title="TOP ITALIA",La 7 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/160
+#EXTINF:-1 tvg-ID="La7.it" tvg-name="La 7 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/La-7_o.jpg" group-title="TOP ITALIA",La 7 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16498
+#EXTINF:-1 tvg-ID="La7d.it" tvg-name="La 7d HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/La-7-D_o.jpg" group-title="TOP ITALIA",La 7d HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6630
+#EXTINF:-1 tvg-ID="La7d.it" tvg-name="La 7d SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/La-7-D_o.jpg" group-title="TOP ITALIA",La 7d SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47
+#EXTINF:-1 tvg-ID="TopCrime.it" tvg-name="Top Crime" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Top-Crime_o.jpg" group-title="TOP ITALIA",Top Crime
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/21
+#EXTINF:-1 tvg-ID="Giallo.it" tvg-name="Giallo HD" tvg-logo="-" group-title="TOP ITALIA",Giallo HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/50210
+#EXTINF:-1 tvg-ID="Giallo.it" tvg-name="Giallo SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Giallo-IT_o.jpg" group-title="TOP ITALIA",Giallo SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/78
+#EXTINF:-1 tvg-ID="Rai4.it" tvg-name="Rai 4 HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/RAI-4_o.jpg" group-title="TOP ITALIA",Rai 4 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6053
+#EXTINF:-1 tvg-ID="Rai4.it" tvg-name="Rai 4 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-4_o.jpg" group-title="TOP ITALIA",Rai 4 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/145
+#EXTINF:-1 tvg-ID="Rai5.it" tvg-name="Rai 5 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-5_o.jpg" group-title="TOP ITALIA",Rai 5 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6794
+#EXTINF:-1 tvg-ID="Rai5.it" tvg-name="Rai 5 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-5_o.jpg" group-title="TOP ITALIA",Rai 5 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/50
+#EXTINF:-1 tvg-ID="RaiMovie.it" tvg-name="Rai Movie HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Movie_o.jpg" group-title="TOP ITALIA",Rai Movie HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6422
+#EXTINF:-1 tvg-ID="RaiMovie.it" tvg-name="Rai Movie SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Movie_o.jpg" group-title="TOP ITALIA",Rai Movie SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/131
+#EXTINF:-1 tvg-ID="RaiPremium.it" tvg-name="Rai Premium HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Premium_o.jpg" group-title="TOP ITALIA",Rai Premium HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6421
+#EXTINF:-1 tvg-ID="RaiPremium.it" tvg-name="Rai Premium SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Premium_o.jpg" group-title="TOP ITALIA",Rai Premium SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/30
+#EXTINF:-1 tvg-ID="RaiScuola.it" tvg-name="Rai Scuola HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Scuola_o.jpg" group-title="TOP ITALIA",Rai Scuola HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16237
+#EXTINF:-1 tvg-ID="RaiScuola.it" tvg-name="Rai Scuola SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Scuola_o.jpg" group-title="TOP ITALIA",Rai Scuola SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37562
+#EXTINF:-1 tvg-ID="RaiStoria.it" tvg-name="Rai Storia HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Storia_o.jpg" group-title="TOP ITALIA",Rai Storia HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16236
+#EXTINF:-1 tvg-ID="RaiStoria.it" tvg-name="Rai Storia SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Storia_o.jpg" group-title="TOP ITALIA",Rai Storia SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17392
+#EXTINF:-1 tvg-ID="Italia2.it" tvg-name="Italia 2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Italia-2_o.jpg" group-title="TOP ITALIA",Italia 2
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6112
+#EXTINF:-1 tvg-ID="Iris.it" tvg-name="Iris" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Iris-TV-IT_o.jpg" group-title="TOP ITALIA",Iris
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/66
+#EXTINF:-1 tvg-ID="LA5.it" tvg-name="La 5" tvg-logo="http://www.sat-address.com/f/pics/logotipi/La-5-Mediaset_o.jpg" group-title="TOP ITALIA",La 5
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/67
+#EXTINF:-1 tvg-ID="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Extra_o.jpg" group-title="TOP ITALIA",Mediaset Extra
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/148
+#EXTINF:-1 tvg-ID="DMAX.it" tvg-name="Dmax HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/DMAX-IT-Plus1_o.jpg" group-title="TOP ITALIA",Dmax HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17649
+#EXTINF:-1 tvg-ID="DMAX.it" tvg-name="Dmax SD" tvg-logo="http://www.sat-address.com/f/pics/Stations/DMAX-IT-Plus1_o.jpg" group-title="TOP ITALIA",Dmax SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27342
+#EXTINF:-1 tvg-ID="DMAXPlus1.it" tvg-name="Dmax +1" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DMAX-IT-Plus1_o.jpg" group-title="TOP ITALIA",Dmax +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6054
+#EXTINF:-1 tvg-ID="RealTime.it" tvg-name="Real Time HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Real-Time-IT_o.jpg" group-title="TOP ITALIA",Real Time HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17615
+#EXTINF:-1 tvg-ID="RealTime.it" tvg-name="Real Time SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Real-Time-IT_o.jpg" group-title="TOP ITALIA",Real Time SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/124
+#EXTINF:-1 tvg-ID="RealTimePlus1.it" tvg-name="Real Time +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Real-Time-IT-Plus1_o.jpg" group-title="TOP ITALIA",Real Time +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5868
+#EXTINF:-1 tvg-ID="Tv8.it" tvg-name="TV 8 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TV8-Italia_o.jpg" group-title="TOP ITALIA",TV 8 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/44085
+#EXTINF:-1 tvg-ID="Tv8.it" tvg-name="TV 8 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TV8-Italia_o.jpg" group-title="TOP ITALIA",TV 8 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/22
+#EXTINF:-1 tvg-ID="Nove.it" tvg-name="NOVE HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Nove-TV-Italia_o.jpg" group-title="TOP ITALIA",NOVE HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16669
+#EXTINF:-1 tvg-ID="Nove.it" tvg-name="Nove SD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Nove-TV-Italia_o.jpg" group-title="TOP ITALIA",Nove SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27540
+#EXTINF:-1 tvg-ID="Spike.it" tvg-name="Spike" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fine-Living-Italia_o.jpg" group-title="TOP ITALIA",Spike
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/114
+#EXTINF:-1 tvg-ID="Focus.it" tvg-name="Focus" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Focus-IT_o.jpg" group-title="TOP ITALIA",Focus
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/113
+#EXTINF:-1 tvg-ID="Alice.it" tvg-name="Alice" tvg-logo="https://www.satlogo.com/logo/tv/aa/alice_it.png" group-title="TOP ITALIA",Alice
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/135
+#EXTINF:-1 tvg-ID="FoodNetwork.it" tvg-name="Food Network HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Food-Network_o.jpg" group-title="TOP ITALIA",Food Network HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/50325
+#EXTINF:-1 tvg-ID="FoodNetwork.it" tvg-name="Food Network SD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Food-Network_o.jpg" group-title="TOP ITALIA",Food Network SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/50326
+#EXTINF:-1 tvg-ID="Marcopolo.it" tvg-name="Marcopolo" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Marco-Polo_o.jpg" group-title="TOP ITALIA",Marcopolo
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/126
+#EXTINF:-1 tvg-ID="TV2000.it" tvg-name="TV 2000" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TV-2000-IT_o.jpg" group-title="TOP ITALIA",TV 2000
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/162
+#EXTINF:-1 tvg-ID="AutoMotoTV.it" tvg-name="Automototv" tvg-logo="https://www.sat-address.com/f/pics/Stations/Automoto-TV-IT_o.jpg" group-title="TOP ITALIA",Automototv
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47623
+#EXTINF:-1 tvg-ID="Antenna3.it" tvg-name="Antenna 3" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Antenna-3_o.jpg" group-title="TOP ITALIA",Antenna 3
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6647
+#EXTINF:-1 tvg-ID="alpha59.it" tvg-name="Alpha" tvg-logo="-" group-title="TOP ITALIA",Alpha
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/36208
+#EXTINF:-1 tvg-ID="" tvg-name="Class TV Moda" tvg-logo="-" group-title="TOP ITALIA",Class TV Moda
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40788
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion TV" tvg-logo="-" group-title="TOP ITALIA",Fashion TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40794
+#EXTINF:-1 tvg-ID="Telelombardia.it" tvg-name="Telelombardia" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TeleLombardia_o.jpg" group-title="TOP ITALIA",Telelombardia
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6646
+#EXTINF:-1 tvg-ID="QVC.it" tvg-name="QVC" tvg-logo="-" group-title="TOP ITALIA",QVC
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37559
+#EXTINF:-1 tvg-ID="" tvg-name="Wine TV" tvg-logo="-" group-title="TOP ITALIA",Wine TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17418
+#EXTINF:-1 tvg-ID="RaiSport.it" tvg-name="Rai Sport + HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/RAI-Sport-1_o.jpg" group-title="TOP ITALIA",Rai Sport + HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6163
+#EXTINF:-1 tvg-ID="SuperTennis.it" tvg-name="Super Tennis HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/SuperTennis-TV_o.jpg" group-title="TOP ITALIA",Super Tennis HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/161
+#EXTINF:-1 tvg-ID="SuperTennis.it" tvg-name="Super Tennis SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/SuperTennis-TV_o.jpg" group-title="TOP ITALIA",Super Tennis SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37571
+#EXTINF:-1 tvg-ID="Sportitalia.it" tvg-name="Sport Italia" tvg-logo="http://www.sat-address.com/f/pics/logotipi/SportItalia_o.jpg" group-title="TOP ITALIA",Sport Italia
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/100
+#EXTINF:-1 tvg-ID="UnireSat.it" tvg-name="UnireSat HD" tvg-logo="-" group-title="TOP ITALIA",UnireSat HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/28680
+#EXTINF:-1 tvg-ID="UnireSat.it" tvg-name="UnireSat SD" tvg-logo="" group-title="TOP ITALIA",UnireSat SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37549
+#EXTINF:-1 tvg-ID="" tvg-name="Padre Pio" tvg-logo="-" group-title="TOP ITALIA",Padre Pio
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17201
+#EXTINF:-1 tvg-ID="" tvg-name="Rai News 24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Rai-News-24_o.jpg" group-title="TOP ITALIA",Rai News 24 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16235
+#EXTINF:-1 tvg-ID="SkyTG24.it" tvg-name="Sky Tg 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-TG-24-Canale-50_o.jpg" group-title="TOP ITALIA",Sky Tg 24
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/12
+#EXTINF:-1 tvg-ID="Tgcom24.it" tvg-name="TgCom 24" tvg-logo="http://www.sat-address.com/f/pics/logotipi/TG-Mediaset_o.jpg" group-title="TOP ITALIA",TgCom 24
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/20
+#EXTINF:-1 tvg-ID="" tvg-name="--------- SKY CINEMA ---------" tvg-logo="-" group-title="",--------- SKY CINEMA ---------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6023
+#EXTINF:-1 tvg-ID="SkyCinemaUno.it" tvg-name="Sky Cinema Uno HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-1-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Cinema Uno HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/147
+#EXTINF:-1 tvg-ID="SkyCinemaUno.it" tvg-name="Sky Cinema Uno SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-1-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Cinema Uno SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27321
+#EXTINF:-1 tvg-ID="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Plus24-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Cinema Uno +24 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5197
+#EXTINF:-1 tvg-ID="SkyCinemaUnoPlus24.it" tvg-name="Sky Cinema Uno +24 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Plus24-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Cinema Uno +24 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27329
+#EXTINF:-1 tvg-ID="SkyCinemaDue.it" tvg-name="Sky Cinema Due HD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Due HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46976
+#EXTINF:-1 tvg-ID="SkyCinemaDue.it" tvg-name="Sky Cinema Due SD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Due SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46977
+#EXTINF:-1 tvg-ID="" tvg-name="Sky Cinema Due +24 HD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Due +24 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47239
+#EXTINF:-1 tvg-ID="SkyCinemaDue+24.it" tvg-name="Sky Cinema Due +24 SD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Due +24 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46985
+#EXTINF:-1 tvg-ID="SkyCinemaAction.it" tvg-name="Sky Cinema Action HD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Action HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46972
+#EXTINF:-1 tvg-ID="SkyCinemaAction.it" tvg-name="Sky Cinema Action SD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Action SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46973
+#EXTINF:-1 tvg-ID="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection HD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Collection HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46974
+#EXTINF:-1 tvg-ID="SkyCinemaCollection.it" tvg-name="Sky Cinema Collection SD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Collection SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46975
+#EXTINF:-1 tvg-ID="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Comedy-IT_o.jpg" group-title="SKY ITALIA FULL",Sky Cinema Comedy HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/176
+#EXTINF:-1 tvg-ID="SkyCinemaComedy.it" tvg-name="Sky Cinema Comedy SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Comedy-IT_o.jpg" group-title="SKY ITALIA FULL",Sky Cinema Comedy SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27323
+#EXTINF:-1 tvg-ID="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama HD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Drama HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46980
+#EXTINF:-1 tvg-ID="SkyCinemaDrama.it" tvg-name="Sky Cinema Drama SD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Drama SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46981
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.it" tvg-name="Sky Cinema Family HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Family_o.jpg" group-title="SKY ITALIA FULL",Sky Cinema Family HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/80
+#EXTINF:-1 tvg-ID="SkyCinemaFamily.it" tvg-name="Sky Cinema Family SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Cinema-Family_o.jpg" group-title="SKY ITALIA FULL",Sky Cinema Family SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27325
+#EXTINF:-1 tvg-ID="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance HD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Romance HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46978
+#EXTINF:-1 tvg-ID="SkyCinemaRomance.it" tvg-name="Sky Cinema Romance SD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Romance SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46979
+#EXTINF:-1 tvg-ID="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense HD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Suspense HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46982
+#EXTINF:-1 tvg-ID="SkyCinemaSuspense.it" tvg-name="Sky Cinema Suspense SD" tvg-logo="" group-title="SKY ITALIA FULL",Sky Cinema Suspense SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/46983
+#EXTINF:-1 tvg-ID="" tvg-name="--------- SKY INTRATTENIMENTO ---------" tvg-logo="-" group-title="SKY ITALIA FULL",--------- SKY INTRATTENIMENTO ---------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6024
+#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Atlantic-HD_o.jpg" group-title="SKY ITALIA FULL",Sky Atlantic HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/25
+#EXTINF:-1 tvg-ID="SkyAtlantic.it" tvg-name="Sky Atlantic SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Atlantic-HD_o.jpg" group-title="SKY ITALIA FULL",Sky Atlantic SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27314
+#EXTINF:-1 tvg-ID="SkyUno.it" tvg-name="Sky Uno HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Uno_o.jpg" group-title="SKY ITALIA FULL",Sky Uno HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/150
+#EXTINF:-1 tvg-ID="SkyUno.it" tvg-name="Sky Uno SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Uno_o.jpg" group-title="SKY ITALIA FULL",Sky Uno SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27313
+#EXTINF:-1 tvg-ID="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Atlantic-HD-Plus1-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Atlantic +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6623
+#EXTINF:-1 tvg-ID="SkyAtlanticPlus1.it" tvg-name="Sky Atlantic +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Atlantic-HD-Plus1-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Atlantic +1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27444
+#EXTINF:-1 tvg-ID="SkyUnoPlus1.it" tvg-name="Sky Uno +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Uno-Plus1_o.jpg" group-title="SKY ITALIA FULL",Sky Uno +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6629
+#EXTINF:-1 tvg-ID="SkyUnoPlus1.it" tvg-name="Sky Uno +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Uno-Plus1_o.jpg" group-title="SKY ITALIA FULL",Sky Uno +1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27445
+#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Italia_o.jpg" group-title="SKY ITALIA FULL",Fox HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/36
+#EXTINF:-1 tvg-ID="Fox.it" tvg-name="Fox SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Italia_o.jpg" group-title="SKY ITALIA FULL",Fox SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27318
+#EXTINF:-1 tvg-ID="FoxPlus1.it" tvg-name="Fox +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Italia-Plus1_o.jpg" group-title="SKY ITALIA FULL",Fox +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6661
+#EXTINF:-1 tvg-ID="FoxPlus1.it" tvg-name="Fox +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Italia-Plus1_o.jpg" group-title="SKY ITALIA FULL",Fox +1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27320
+#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Animation-Italia_o.jpg" group-title="SKY ITALIA FULL",Fox Animation HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/81
+#EXTINF:-1 tvg-ID="FoxAnimation.it" tvg-name="Fox Animation SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Animation-Italia_o.jpg" group-title="SKY ITALIA FULL",Fox Animation SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27315
+#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Comedy-Italia_o.jpg" group-title="SKY ITALIA FULL",Fox Comedy HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/177
+#EXTINF:-1 tvg-ID="FoxComedy.it" tvg-name="Fox Comedy SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Comedy-Italia_o.jpg" group-title="SKY ITALIA FULL",Fox Comedy SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27316
+#EXTINF:-1 tvg-ID="FoxCrime.it" tvg-name="Fox Crime HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Crime-Italia_o.jpg" group-title="SKY ITALIA FULL",Fox Crime HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/127
+#EXTINF:-1 tvg-ID="FoxCrime.it" tvg-name="Fox Crime SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Crime-Italia_o.jpg" group-title="SKY ITALIA FULL",Fox Crime SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27317
+#EXTINF:-1 tvg-ID="FoxCrimePlus1.it" tvg-name="Fox Crime +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Crime-Italia-Plus1_o.jpg" group-title="SKY ITALIA FULL",Fox Crime +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5869
+#EXTINF:-1 tvg-ID="FoxCrimePlus1.it" tvg-name="Fox Crime +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Crime-Italia-Plus1_o.jpg" group-title="SKY ITALIA FULL",Fox Crime +1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27446
+#EXTINF:-1 tvg-ID="FoxCrimePlus2.it" tvg-name="Fox Crime +2 HD" tvg-logo="-" group-title="SKY ITALIA FULL",Fox Crime +2 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37594
+#EXTINF:-1 tvg-ID="FoxCrimePlus2.it" tvg-name="Fox Crime +2 SD" tvg-logo="-" group-title="SKY ITALIA FULL",Fox Crime +2 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17820
+#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Life-IT_o.jpg" group-title="SKY ITALIA FULL",Fox Life HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/41
+#EXTINF:-1 tvg-ID="FoxLife.it" tvg-name="Fox Life SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Life-IT_o.jpg" group-title="SKY ITALIA FULL",Fox Life SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27319
+#EXTINF:-1 tvg-ID="FoxLifePlus1.it" tvg-name="Fox Life +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Life-IT-Plus1_o.jpg" group-title="SKY ITALIA FULL",Fox Life +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6660
+#EXTINF:-1 tvg-ID="FoxLifePlus1.it" tvg-name="Fox Life +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Life-IT-Plus1_o.jpg" group-title="SKY ITALIA FULL",Fox Life +1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27447
+#EXTINF:-1 tvg-ID="ComedyCentral.it" tvg-name="Comedy Central" tvg-logo="http://www.sat-address.com/f/pics/Stations/Comedy-Central-IT_o.jpg" group-title="SKY ITALIA FULL",Comedy Central
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27337
+#EXTINF:-1 tvg-ID="Cielo.it" tvg-name="Cielo HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cielo-TV_o.jpg" group-title="SKY ITALIA FULL",Cielo HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17614
+#EXTINF:-1 tvg-ID="" tvg-name="Cielo +1 HD" tvg-logo="" group-title="SKY ITALIA FULL",Cielo +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37577
+#EXTINF:-1 tvg-ID="Cielo.it" tvg-name="Cielo SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cielo-TV_o.jpg" group-title="SKY ITALIA FULL",Cielo SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40
+#EXTINF:-1 tvg-ID="LEI.it" tvg-name="Lei HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Lei-TV_o.jpg" group-title="SKY ITALIA FULL",Lei HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/44086
+#EXTINF:-1 tvg-ID="LEI.it" tvg-name="Lei SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Lei-TV_o.jpg" group-title="SKY ITALIA FULL",Lei SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/167
+#EXTINF:-1 tvg-ID="LEIPlus1.it" tvg-name="Lei +1" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Lei-TV-Plus1_o.jpg" group-title="SKY ITALIA FULL",Lei +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16405
+#EXTINF:-1 tvg-ID="GamberoRosso.it" tvg-name="Gambero Rosso HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Gambero-Rosso_o.jpg" group-title="SKY ITALIA FULL",Gambero Rosso HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/84
+#EXTINF:-1 tvg-ID="GamberoRosso.it" tvg-name="Gambero Rosso SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Gambero-Rosso_o.jpg" group-title="SKY ITALIA FULL",Gambero Rosso SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27344
+#EXTINF:-1 tvg-ID="" tvg-name="--------- SKY SPORT ---------" tvg-logo="-" group-title="SKY ITALIA FULL",--------- SKY SPORT ---------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6025
+#EXTINF:-1 tvg-ID="SkySport24.it" tvg-name="Sky Sport 24 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-24_o.jpg" group-title="SKY ITALIA FULL",Sky Sport 24 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/13
+#EXTINF:-1 tvg-ID="SkySport24.it" tvg-name="Sky Sport 24 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-24_o.jpg" group-title="SKY ITALIA FULL",Sky Sport 24 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27330
+#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="Sky Sport Serie A HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-SuperCalcio_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Serie A HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/116
+#EXTINF:-1 tvg-ID="SkySportSerieA.it" tvg-name="Sky Sport Serie A SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-SuperCalcio_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Serie A SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27312
+#EXTINF:-1 tvg-ID="SkySportUno.it" tvg-name="Sky Sport Uno HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-1_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Uno HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6316
+#EXTINF:-1 tvg-ID="SkySportUno.it" tvg-name="Sky Sport Uno SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-1_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Uno SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27306
+#EXTINF:-1 tvg-ID="SkySportArena.it" tvg-name="Sky Sport Arena HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-2_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Arena HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52
+#EXTINF:-1 tvg-ID="SkySportArena.it" tvg-name="Sky Sport Arena SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-2_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Arena SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27307
+#EXTINF:-1 tvg-ID="SkySportFootball.it" tvg-name="Sky Sport Football HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-3_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Football HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/146
+#EXTINF:-1 tvg-ID="SkySportFootball.it" tvg-name="Sky Sport Football SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-3_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Football SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27308
+#EXTINF:-1 tvg-ID="SkySportNBA.it" tvg-name="Sky Sport NBA HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Plus-IT_o.jpg" group-title="SKY ITALIA FULL",Sky Sport NBA HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/82
+#EXTINF:-1 tvg-ID="SkySportNBA.it" tvg-name="Sky Sport NBA SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Plus-IT_o.jpg" group-title="SKY ITALIA FULL",Sky Sport NBA SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27311
+#EXTINF:-1 tvg-ID="SkySportGolf.it" tvg-name="Sky Sport Golf HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Sports-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Golf HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/34
+#EXTINF:-1 tvg-ID="SkySportGolf.it" tvg-name="Sky Sport Golf SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Fox-Sports-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Sport Golf SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27305
+#EXTINF:-1 tvg-ID="SkySportF1.it" tvg-name="Sky Formula 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-F1-HD-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Formula 1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/128
+#EXTINF:-1 tvg-ID="SkySportF1.it" tvg-name="Sky Formula 1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-F1-HD-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Formula 1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27309
+#EXTINF:-1 tvg-ID="SkySportMotoGP.it" tvg-name="Sky Moto GP HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Moto-GP-HD_o.jpg" group-title="SKY ITALIA FULL",Sky Moto GP HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/112
+#EXTINF:-1 tvg-ID="SkySportMotoGP.it" tvg-name="Sky Moto GP SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Sport-Moto-GP-HD_o.jpg" group-title="SKY ITALIA FULL",Sky Moto GP SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27310
+#EXTINF:-1 tvg-ID="BikeChannel.it" tvg-name="Bike Channel HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Bike-Channel-Italia_o.jpg" group-title="SKY ITALIA FULL",Bike Channel HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5881
+#EXTINF:-1 tvg-ID="BikeChannel.it" tvg-name="Bike Channel SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Bike-Channel-Italia_o.jpg" group-title="SKY ITALIA FULL",Bike Channel SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27332
+#EXTINF:-1 tvg-ID="Eurosport1.it" tvg-name="Eurosport 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Eurosport-Italia_o.jpg" group-title="SKY ITALIA FULL",Eurosport 1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6628
+#EXTINF:-1 tvg-ID="Eurosport2.it" tvg-name="Eurosport 2 HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Eurosport-2-Italia_o.jpg" group-title="SKY ITALIA FULL",Eurosport 2 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40792
+#EXTINF:-1 tvg-ID="Eurosport2.it" tvg-name="Eurosport 2 SD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Eurosport-2-Italia_o.jpg" group-title="SKY ITALIA FULL",Eurosport 2 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40793
+#EXTINF:-1 tvg-ID="ClassHorse.it" tvg-name="Class Horse TV HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Class-Horse-TV_o.jpg" group-title="SKY ITALIA FULL",Class Horse TV HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6052
+#EXTINF:-1 tvg-ID="Caccia.it" tvg-name="Caccia e Pesca" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Caccia-Pesca_o.jpg" group-title="SKY ITALIA FULL",Caccia e Pesca
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27335
+#EXTINF:-1 tvg-ID="Pesca.it" tvg-name="Pesca e Caccia" tvg-logo="https://www.sat-address.com/f/pics/Stations/Pesca-Canale-Italia_o.jpg" group-title="SKY ITALIA FULL",Pesca e Caccia
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5149
+#EXTINF:-1 tvg-ID="" tvg-name="--------- SKY CALCIO ---------" tvg-logo="-" group-title="SKY ITALIA FULL",--------- SKY CALCIO ---------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6026
+#EXTINF:-1 tvg-ID="SkySport251.it" tvg-name="Sky Calcio 1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6468
+#EXTINF:-1 tvg-ID="SkySport251.it" tvg-name="Sky Calcio 1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27298
+#EXTINF:-1 tvg-ID="SkySport252.it" tvg-name="Sky Calcio 2 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-2_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 2 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6469
+#EXTINF:-1 tvg-ID="SkySport252.it" tvg-name="Sky Calcio 2 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-2_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 2 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27299
+#EXTINF:-1 tvg-ID="SkySport253.it" tvg-name="Sky Calcio 3 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-3_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 3 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6470
+#EXTINF:-1 tvg-ID="SkySport253.it" tvg-name="Sky Calcio 3 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-3_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 3 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27300
+#EXTINF:-1 tvg-ID="SkySport254.it" tvg-name="Sky Calcio 4 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-4_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 4 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6471
+#EXTINF:-1 tvg-ID="SkySport254.it" tvg-name="Sky Calcio 4 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-4_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 4 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27301
+#EXTINF:-1 tvg-ID="SkySport255.it" tvg-name="Sky Calcio 5 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-5_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 5 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6472
+#EXTINF:-1 tvg-ID="SkySport255.it" tvg-name="Sky Calcio 5 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-5_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 5 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27302
+#EXTINF:-1 tvg-ID="SkySport256.it" tvg-name="Sky Calcio 6 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-6_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 6 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6625
+#EXTINF:-1 tvg-ID="SkySport256.it" tvg-name="Sky Calcio 6 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-6_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 6 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27303
+#EXTINF:-1 tvg-ID="SkySport257.it" tvg-name="Sky Calcio 7 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-7_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 7 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6626
+#EXTINF:-1 tvg-ID="SkySport257.it" tvg-name="Sky Calcio 7 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-7_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 7 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/102
+#EXTINF:-1 tvg-ID="SkySport258.it" tvg-name="Sky Calcio 8 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-8_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 8 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6627
+#EXTINF:-1 tvg-ID="SkySport258.it" tvg-name="Sky Calcio 8 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-8_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 8 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27304
+#EXTINF:-1 tvg-ID="SkySport259.it" tvg-name="Sky Calcio 9 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-9_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 9 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17734
+#EXTINF:-1 tvg-ID="SkySport260.it" tvg-name="Sky Calcio 10 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-10_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 10 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17735
+#EXTINF:-1 tvg-ID="SkySport261.it" tvg-name="Sky Calcio 11 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Calcio-11_o.jpg" group-title="SKY ITALIA FULL",Sky Calcio 11 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17736
+#EXTINF:-1 tvg-ID="" tvg-name="Top Calcio 24 HD" tvg-logo="https://www.sat-address.com/f/pics/logotipi/Top-Calcio-24_o.jpg" group-title="SKY ITALIA FULL",Top Calcio 24 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/36231
+#EXTINF:-1 tvg-ID="" tvg-name="Top Calcio 24 SD" tvg-logo="https://www.sat-address.com/f/pics/logotipi/Top-Calcio-24_o.jpg" group-title="SKY ITALIA FULL",Top Calcio 24 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37557
+#EXTINF:-1 tvg-ID="InterChannel.it" tvg-name="Inter Channel HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Inter-Channel_o.jpg" group-title="SKY ITALIA FULL",Inter Channel HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6717
+#EXTINF:-1 tvg-ID="InterChannel.it" tvg-name="Inter Channel SD" tvg-logo="-" group-title="SKY ITALIA FULL",Inter Channel SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/29606
+#EXTINF:-1 tvg-ID="LazioStyleChannel.it" tvg-name="Lazio Channel HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Lazio-Style-TV_o.jpg" group-title="SKY ITALIA FULL",Lazio Channel HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17295
+#EXTINF:-1 tvg-ID="LazioStyleChannel.it" tvg-name="Lazio Channel SD" tvg-logo="-" group-title="SKY ITALIA FULL",Lazio Channel SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/29607
+#EXTINF:-1 tvg-ID="MilanTV.it" tvg-name="Milan Channel HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Milan-Channel_o.jpg" group-title="SKY ITALIA FULL",Milan Channel HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6716
+#EXTINF:-1 tvg-ID="MilanTV.it" tvg-name="Milan Channel SD" tvg-logo="-" group-title="SKY ITALIA FULL",Milan Channel SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/29608
+#EXTINF:-1 tvg-ID="RomaChannel.it" tvg-name="Roma Channel HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Roma-Channel_o.jpg" group-title="SKY ITALIA FULL",Roma Channel HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6715
+#EXTINF:-1 tvg-ID="RomaChannel.it" tvg-name="Roma Channel SD" tvg-logo="-" group-title="SKY ITALIA FULL",Roma Channel SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/29610
+#EXTINF:-1 tvg-ID="TorinoChannel.it" tvg-name="Torino Channel HD" tvg-logo="-" group-title="SKY ITALIA FULL",Torino Channel HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/29196
+#EXTINF:-1 tvg-ID="TorinoChannel.it" tvg-name="Torino Channel SD" tvg-logo="-" group-title="SKY ITALIA FULL",Torino Channel SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/29197
+#EXTINF:-1 tvg-ID="" tvg-name="--------- SKY CULTURA ----------" tvg-logo="-" group-title="SKY ITALIA FULL",--------- SKY CULTURA ----------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6027
+#EXTINF:-1 tvg-ID="Blaze.it" tvg-name="Blaze HD" tvg-logo="http://blazeadvertising.com.au/wp-content/uploads/2016/03/blaze_logo.png" group-title="SKY ITALIA FULL",Blaze HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17293
+#EXTINF:-1 tvg-ID="Blaze.it" tvg-name="Blaze SD" tvg-logo="http://blazeadvertising.com.au/wp-content/uploads/2016/03/blaze_logo.png" group-title="SKY ITALIA FULL",Blaze SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27333
+#EXTINF:-1 tvg-ID="NationalGeo.it" tvg-name="Nat Geo HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NGC-HD-Italia_o.jpg" group-title="SKY ITALIA FULL",Nat Geo HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/137
+#EXTINF:-1 tvg-ID="NationalGeo.it" tvg-name="Nat Geo SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NGC-HD-Italia_o.jpg" group-title="SKY ITALIA FULL",Nat Geo SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27348
+#EXTINF:-1 tvg-ID="NationalGeoPlus1.it" tvg-name="Nat Geo +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NGC-Italia-Plus1_o.jpg" group-title="SKY ITALIA FULL",Nat Geo +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/11178
+#EXTINF:-1 tvg-ID="NationalGeoPlus1.it" tvg-name="Nat Geo +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NGC-Italia-Plus1_o.jpg" group-title="SKY ITALIA FULL",Nat Geo +1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27450
+#EXTINF:-1 tvg-ID="NatGeoPeople.it" tvg-name="Nat Geo People HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Nat-Geo-People-Italia_o.jpg" group-title="SKY ITALIA FULL",Nat Geo People HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/132
+#EXTINF:-1 tvg-ID="NatGeoPeople.it" tvg-name="Nat Geo People SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Nat-Geo-People-Italia_o.jpg" group-title="SKY ITALIA FULL",Nat Geo People SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27349
+#EXTINF:-1 tvg-ID="NatGeoWild.it" tvg-name="Nat Geo Wild HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NG-Wild-IT_o.jpg" group-title="SKY ITALIA FULL",Nat Geo Wild HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37
+#EXTINF:-1 tvg-ID="NatGeoWild.it" tvg-name="Nat Geo Wild SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NG-Wild-IT_o.jpg" group-title="SKY ITALIA FULL",Nat Geo Wild SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27350
+#EXTINF:-1 tvg-ID="NatGeoWildPlus1.it" tvg-name="Nat Geo Wild +1 HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NG-Wild-IT-Plus1_o.jpg" group-title="SKY ITALIA FULL",Nat Geo Wild +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/11432
+#EXTINF:-1 tvg-ID="NatGeoWildPlus1.it" tvg-name="Nat Geo Wild +1 SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/NG-Wild-IT-Plus1_o.jpg" group-title="SKY ITALIA FULL",Nat Geo Wild +1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27451
+#EXTINF:-1 tvg-ID="Discovery.it" tvg-name="Discovery HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Ch-Italia_o.jpg" group-title="SKY ITALIA FULL",Discovery HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/182
+#EXTINF:-1 tvg-ID="Discovery.it" tvg-name="Discovery SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Ch-Italia_o.jpg" group-title="SKY ITALIA FULL",Discovery SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27345
+#EXTINF:-1 tvg-ID="DiscoveryPlus1.it" tvg-name="Discovery +1 HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Discovery-Ch-Italia-Plus1_o.jpg" group-title="SKY ITALIA FULL",Discovery +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/15929
+#EXTINF:-1 tvg-ID="DiscoveryPlus1.it" tvg-name="Discovery +1 SD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Discovery-Ch-Italia-Plus1_o.jpg" group-title="SKY ITALIA FULL",Discovery +1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27448
+#EXTINF:-1 tvg-ID="DiscoverySci.it" tvg-name="Discovery Sci HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Science-Italia_o.jpg" group-title="SKY ITALIA FULL",Discovery Sci HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/87
+#EXTINF:-1 tvg-ID="DiscoverySci.it" tvg-name="Discovery Sci SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Discovery-Science-Italia_o.jpg" group-title="SKY ITALIA FULL",Discovery Sci SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27346
+#EXTINF:-1 tvg-ID="MotorTrend.it" tvg-name="Motor Trend HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Motor-Trend-Italia_o.jpg" group-title="SKY ITALIA FULL",Motor Trend HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/48374
+#EXTINF:-1 tvg-ID="MotorTrend.it" tvg-name="Motor Trend SD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Motor-Trend-Italia_o.jpg" group-title="SKY ITALIA FULL",Motor Trend SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/43756
+#EXTINF:-1 tvg-ID="History.it" tvg-name="History Channel HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/History-Channel-Italia_o.jpg" group-title="SKY ITALIA FULL",History Channel HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/48548
+#EXTINF:-1 tvg-ID="History.it" tvg-name="History Channel" tvg-logo="http://www.sat-address.com/f/pics/logotipi/History-Channel-Italia_o.jpg" group-title="SKY ITALIA FULL",History Channel
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/186
+#EXTINF:-1 tvg-ID="HistoryPlus1.it" tvg-name="History +1" tvg-logo="http://www.sat-address.com/f/pics/logotipi/History-Channel-Italia_o.jpg" group-title="SKY ITALIA FULL",History +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/12936
+#EXTINF:-1 tvg-ID="SkyArte.it" tvg-name="Sky Arte HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Arte-HD-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Arte HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/166
+#EXTINF:-1 tvg-ID="SkyArte.it" tvg-name="Sky Arte SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Sky-Arte-HD-Italia_o.jpg" group-title="SKY ITALIA FULL",Sky Arte SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27541
+#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="Crime Investigation HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Crime-Investigation-Network-Italia_o.jpg" group-title="SKY ITALIA FULL",Crime Investigation HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/179
+#EXTINF:-1 tvg-ID="CrimeInvestigation.it" tvg-name="Crime Investigation SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Crime-Investigation-Network-Italia_o.jpg" group-title="SKY ITALIA FULL",Crime Investigation SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27338
+#EXTINF:-1 tvg-ID="" tvg-name="--------- PREMIUM CINEMA ---------" tvg-logo="" group-title="",--------- PREMIUM CINEMA ---------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16603
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="20 Mediaset HD" tvg-logo="http://shrani.si/f/U/fE/1L7LOC00/20-mediaset-hd.png" group-title="MEDIASET PREMIUM",20 Mediaset HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/36496
+#EXTINF:-1 tvg-ID="20Mediaset.it" tvg-name="20 Mediaset SD" tvg-logo="http://shrani.si/f/U/fE/1L7LOC00/20-mediaset-hd.png" group-title="MEDIASET PREMIUM",20 Mediaset SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/36497
+#EXTINF:-1 tvg-ID="PremiumCinema.it" tvg-name="Premium Cinema HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Mediaset-Premium-Cinema_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/38286
+#EXTINF:-1 tvg-ID="PremiumCinema.it" tvg-name="Premium Cinema SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27533
+#EXTINF:-1 tvg-ID="PremiumCinemaPlus24.it" tvg-name="Premium Cinema + 24 HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Mediaset-Premium-Cinema-Plus24_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema + 24 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/38282
+#EXTINF:-1 tvg-ID="PremiumCinemaPlus24.it" tvg-name="Premium Cinema + 24 SD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Mediaset-Premium-Cinema-Plus24_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema + 24 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/42304
+#EXTINF:-1 tvg-ID="PremiumCinemaEnergy.it" tvg-name="Premium Cinema Energy HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Mediaset-Premium-Cinema-Energy_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema Energy HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/38285
+#EXTINF:-1 tvg-ID="PremiumCinemaEnergy.it" tvg-name="Premium Cinema Energy SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Energy_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema Energy SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27535
+#EXTINF:-1 tvg-ID="PremiumCinemaComedy.it" tvg-name="Premium Cinema Comedy HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Mediaset-Premium-Cinema-Comedy_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema Comedy HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/38283
+#EXTINF:-1 tvg-ID="PremiumCinemaComedy.it" tvg-name="Premium Cinema Comedy SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Comedy_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema Comedy SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/142
+#EXTINF:-1 tvg-ID="PremiumCinemaEmotion.it" tvg-name="Premium Cinema Emotion HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Mediaset-Premium-Cinema-Emotion_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema Emotion HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/38284
+#EXTINF:-1 tvg-ID="PremiumCinemaEmotion.it" tvg-name="Premium Cinema Emotion SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Cinema-Emotion_o.jpg" group-title="MEDIASET PREMIUM",Premium Cinema Emotion SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/130
+#EXTINF:-1 tvg-ID="" tvg-name="------- PREMIUM INTRATTENIMENTO -------" tvg-logo="" group-title="",------- PREMIUM INTRATTENIMENTO -------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16604
+#EXTINF:-1 tvg-ID="PremiumAction.it" tvg-name="Premium Action HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Action_o.jpg" group-title="MEDIASET PREMIUM",Premium Action HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/42302
+#EXTINF:-1 tvg-ID="PremiumAction.it" tvg-name="Premium Action SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Action_o.jpg" group-title="MEDIASET PREMIUM",Premium Action SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27538
+#EXTINF:-1 tvg-ID="PremiumCrime.it" tvg-name="Premium Crime HD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Mediaset-Premium-Crime_o.jpg" group-title="MEDIASET PREMIUM",Premium Crime HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/42305
+#EXTINF:-1 tvg-ID="PremiumCrime.it" tvg-name="Premium Crime SD" tvg-logo="https://www.sat-address.com/f/pics/Stations/Mediaset-Premium-Crime_o.jpg" group-title="MEDIASET PREMIUM",Premium Crime SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/35421
+#EXTINF:-1 tvg-ID="Stories.it" tvg-name="Premium Stories HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Stories_o.jpg" group-title="MEDIASET PREMIUM",Premium Stories HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/42307
+#EXTINF:-1 tvg-ID="Stories.it" tvg-name="Premium Stories SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Mediaset-Premium-Stories_o.jpg" group-title="MEDIASET PREMIUM",Premium Stories SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/32
+#EXTINF:-1 tvg-ID="" tvg-name="--------- DAZN SPORT ---------" tvg-logo="" group-title="",--------- DAZN SPORT ---------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39110
+#EXTINF:-1 tvg-ID="" tvg-name="Mosaico DAZN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",Mosaico DAZN HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/50306
+#EXTINF:-1 tvg-ID="DAZN01.it" tvg-name="DAZN 01 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 01 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39277
+#EXTINF:-1 tvg-ID="DAZN02.it" tvg-name="DAZN 02 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 02 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39278
+#EXTINF:-1 tvg-ID="DAZN03.it" tvg-name="DAZN 03 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 03 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39279
+#EXTINF:-1 tvg-ID="DAZN04.it" tvg-name="DAZN 04 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 04 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39280
+#EXTINF:-1 tvg-ID="DAZN05.it" tvg-name="DAZN 05 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 05 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39281
+#EXTINF:-1 tvg-ID="DAZN06.it" tvg-name="DAZN 06 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 06 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39282
+#EXTINF:-1 tvg-ID="DAZN07.it" tvg-name="DAZN 07 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 07 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39283
+#EXTINF:-1 tvg-ID="DAZN08.it" tvg-name="DAZN 08 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 08 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39284
+#EXTINF:-1 tvg-ID="DAZN09.it" tvg-name="DAZN 09 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 09 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39286
+#EXTINF:-1 tvg-ID="DAZN10.it" tvg-name="DAZN 10 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 10 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39288
+#EXTINF:-1 tvg-ID="DAZN11.it" tvg-name="DAZN 11 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 11 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39290
+#EXTINF:-1 tvg-ID="DAZN12.it" tvg-name="DAZN 12 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 12 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39292
+#EXTINF:-1 tvg-ID="DAZN13.it" tvg-name="DAZN 13 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 13 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39294
+#EXTINF:-1 tvg-ID="DAZN14.it" tvg-name="DAZN 14 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 14 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39296
+#EXTINF:-1 tvg-ID="DAZN15.it" tvg-name="DAZN 15 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 15 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39298
+#EXTINF:-1 tvg-ID="DAZN16.it" tvg-name="DAZN 16 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DAZN 16 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39300
+#EXTINF:-1 tvg-ID="DAZN_1_BAR_HD" tvg-name="DE: DAZN Sport 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DE: DAZN Sport 1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39195
+#EXTINF:-1 tvg-ID="DAZN_2_Bar_HD" tvg-name="DE: DAZN Sport 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrcIYi3-g03zPZ-RhKku_GQI7CpVHaWoI7OKq_n2lIB9Gi-lCa" group-title="DAZN",DE: DAZN Sport 2 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39196
+#EXTINF:-1 tvg-ID="" tvg-name="------- ELEVEN SPORT -------" tvg-logo="" group-title="DAZN",------- ELEVEN SPORT -------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40183
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN Sport 1 HD" tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png" group-title="DAZN",ELEVEN Sport 1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40177
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN Sport 1 SD" tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png" group-title="DAZN",ELEVEN Sport 1 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40180
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN Sport 2 HD" tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png" group-title="DAZN",ELEVEN Sport 2 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40178
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN Sport 2 SD" tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png" group-title="DAZN",ELEVEN Sport 2 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40181
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN Sport 3 HD" tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png" group-title="DAZN",ELEVEN Sport 3 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40179
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN Sport 3 SD" tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png" group-title="DAZN",ELEVEN Sport 3 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40182
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN Sport 4 HD" tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png" group-title="DAZN",ELEVEN Sport 4 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40184
+#EXTINF:-1 tvg-ID="" tvg-name="ELEVEN Sport 4 SD" tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png" group-title="DAZN",ELEVEN Sport 4 SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/40185
+#EXTINF:-1 tvg-ID="Classica.it" tvg-name="Classica HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Classica-Sky-IT_o.jpg" group-title="SKY ITALIA FULL",Classica HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6653
+#EXTINF:-1 tvg-ID="" tvg-name="--------- BAMBINI ---------" tvg-logo="-" group-title="",--------- BAMBINI ---------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5722
+#EXTINF:-1 tvg-ID="BabyTV.it" tvg-name="Baby TV" tvg-logo="-" group-title="BAMBINI",Baby TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27331
+#EXTINF:-1 tvg-ID="Boing.it" tvg-name="Boing" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Boing-IT_o.jpg" group-title="BAMBINI",Boing
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/110
+#EXTINF:-1 tvg-ID="Boomerang.it" tvg-name="Boomerang" tvg-logo="http://www.sat-address.com/f/pics/Stations/Boomerang-IT_o.jpg" group-title="BAMBINI",Boomerang
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/21192
+#EXTINF:-1 tvg-ID="BoomerangPlus1.it" tvg-name="Boomerang +1" tvg-logo="" group-title="BAMBINI",Boomerang +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52823
+#EXTINF:-1 tvg-ID="CartoonNetwork.it" tvg-name="Cartoon Network" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cartoon-Network-Italy_o.jpg" group-title="BAMBINI",Cartoon Network
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/18
+#EXTINF:-1 tvg-ID="CartoonPlus1.it" tvg-name="Cartoon Network +1" tvg-logo="" group-title="BAMBINI",Cartoon Network +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52847
+#EXTINF:-1 tvg-ID="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Cartoonito-Italia_o.jpg" group-title="BAMBINI",Cartoonito
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/143
+#EXTINF:-1 tvg-ID="DEAjr.it" tvg-name="Dea Junior" tvg-logo="http://www.sat-address.com/f/pics/Stations/Dea-Junior_o.jpg" group-title="BAMBINI",Dea Junior
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17153
+#EXTINF:-1 tvg-ID="DeAKids.it" tvg-name="Dea Kids" tvg-logo="http://www.sat-address.com/f/pics/Stations/Dea-Kids_o.jpg" group-title="BAMBINI",Dea Kids
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17154
+#EXTINF:-1 tvg-ID="DeAKidsPlus1.it" tvg-name="Dea Kids +1" tvg-logo="" group-title="BAMBINI",Dea Kids +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52826
+#EXTINF:-1 tvg-ID="DisneyChannel.it" tvg-name="Disney Channel HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Disney-Channel-Italy_o.jpg" group-title="BAMBINI",Disney Channel HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17155
+#EXTINF:-1 tvg-ID="DisneyCh.Plus1.it" tvg-name="Disney Channel +1 HD" tvg-logo="" group-title="BAMBINI",Disney Channel +1 HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52800
+#EXTINF:-1 tvg-ID="DisneyChannel.it" tvg-name="Disney Channel SD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Disney-Channel-Italy_o.jpg" group-title="BAMBINI",Disney Channel SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/39355
+#EXTINF:-1 tvg-ID="DisneyJunior.it" tvg-name="Disney Junior HD" tvg-logo="http://www.sat-address.com/f/pics/Stations/Disney-Junior-Italia_o.jpg" group-title="BAMBINI",Disney Junior HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17156
+#EXTINF:-1 tvg-ID="DisneyJuniorPlus1.it" tvg-name="Disney Junior +1" tvg-logo="" group-title="BAMBINI",Disney Junior +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52802
+#EXTINF:-1 tvg-ID="DisneyXD.it" tvg-name="Disney XD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Disney-XD-Italy_o.jpg" group-title="BAMBINI",Disney XD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/14
+#EXTINF:-1 tvg-ID="DisneyXDPlus1.it" tvg-name="Disney XD +1" tvg-logo="" group-title="BAMBINI",Disney XD +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52801
+#EXTINF:-1 tvg-ID="Frisbee.it" tvg-name="Frisbee" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Frisbee-IT_o.jpg" group-title="BAMBINI",Frisbee
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/33
+#EXTINF:-1 tvg-ID="K2.it" tvg-name="K2" tvg-logo="http://www.sat-address.com/f/pics/logotipi/K-2-IT_o.jpg" group-title="BAMBINI",K2
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/118
+#EXTINF:-1 tvg-ID="ManGa.it" tvg-name="Man-GA" tvg-logo="http://www.lyngsat-logo.com/logo/tv/mm/man_ga_it.png" group-title="BAMBINI",Man-GA
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6624
+#EXTINF:-1 tvg-ID="NickJr.it" tvg-name="Nick Junior" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Nick-Jr-IT_o.jpg" group-title="BAMBINI",Nick Junior
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17144
+#EXTINF:-1 tvg-ID="NickJrPlus1.it" tvg-name="Nick Junior +1" tvg-logo="" group-title="BAMBINI",Nick Junior +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52825
+#EXTINF:-1 tvg-ID="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="http://www.sat-address.com/f/pics/logotipi/Nickelodeon-IT_o.jpg" group-title="BAMBINI",Nickelodeon
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17292
+#EXTINF:-1 tvg-ID="NickelodeonPlus1.it" tvg-name="Nickelodeon +1" tvg-logo="" group-title="BAMBINI",Nickelodeon +1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52824
+#EXTINF:-1 tvg-ID="POP.it" tvg-name="POP Italy" tvg-logo="https://www.sat-address.com/f/pics/Stations/POP-Italia_o.jpg" group-title="BAMBINI",POP Italy
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/35042
+#EXTINF:-1 tvg-ID="RaiGulp.it" tvg-name="Rai Gulp HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Gulp_o.jpg" group-title="BAMBINI",Rai Gulp HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16234
+#EXTINF:-1 tvg-ID="RaiGulp.it" tvg-name="Rai Gulp SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Gulp_o.jpg" group-title="BAMBINI",Rai Gulp SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/134
+#EXTINF:-1 tvg-ID="RaiYoyo.it" tvg-name="Rai Yoyo HD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Yoyo_o.jpg" group-title="BAMBINI",Rai Yoyo HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/16233
+#EXTINF:-1 tvg-ID="RaiYoyo.it" tvg-name="Rai Yoyo SD" tvg-logo="http://www.sat-address.com/f/pics/logotipi/RAI-Yoyo_o.jpg" group-title="BAMBINI",Rai Yoyo SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/149
+#EXTINF:-1 tvg-ID="Super!.it" tvg-name="Super!" tvg-logo="http://www.sat-address.com/f/pics/logotipi/DeA-Super_o.jpg" group-title="BAMBINI",Super!
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/51
+#EXTINF:-1 tvg-ID="TeenNick.it" tvg-name="Teen Nick HD" tvg-logo="-" group-title="BAMBINI",Teen Nick HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/29605
+#EXTINF:-1 tvg-ID="" tvg-name="--------- VIDEO MUSICA & RADIO ---------" tvg-logo="-" group-title="",--------- VIDEO MUSICA & RADIO ---------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5723
+#EXTINF:-1 tvg-ID="videoitaliahd" tvg-name="Video Italia HD" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Video Italia HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37542
+#EXTINF:-1 tvg-ID="" tvg-name="MTV HD" tvg-logo="" group-title="VIDEO MUSICA & RADIO",MTV HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17483
+#EXTINF:-1 tvg-ID="" tvg-name="MTV SD" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",MTV SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/29629
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Live HD" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",MTV Live HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6652
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Live SD" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",MTV Live SD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37545
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Zeta TV" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio Zeta TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37561
+#EXTINF:-1 tvg-ID="" tvg-name="RTL 102.5 HD TV" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",RTL 102.5 HD TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6514
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Freccia HD" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio Freccia HD
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17578
+#EXTINF:-1 tvg-ID="" tvg-name="One Music" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",One Music
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27550
+#EXTINF:-1 tvg-ID="" tvg-name="VH-1 Italia" tvg-logo="" group-title="VIDEO MUSICA & RADIO",VH-1 Italia
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37547
+#EXTINF:-1 tvg-ID="" tvg-name="VH+1 Italia" tvg-logo="" group-title="VIDEO MUSICA & RADIO",VH+1 Italia
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17430
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Norba TV" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio Norba TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17579
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Monte Carlo TV" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio Monte Carlo TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27356
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 tv" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio 105 tv
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/27553
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 51 TV" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 51 TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47752
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Beatz Music" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Beatz Music
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47751
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Company TV" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Company TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47750
+#EXTINF:-1 tvg-ID="" tvg-name="Radio M2o TV" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio M2o TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47749
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Number One 1" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Number One 1
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47748
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Taormina TV" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Taormina TV
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47746
+#EXTINF:-1 tvg-ID="" tvg-name="Radio TV Azzurra" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio TV Azzurra
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47745
+#EXTINF:-1 tvg-ID="" tvg-name="--------- RADIO MUSIC ---------" tvg-logo="" group-title="",--------- RADIO MUSIC ---------
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/17582
+#EXTINF:-1 tvg-ID="" tvg-name="Radio RDS" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio RDS
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47379
+#EXTINF:-1 tvg-ID="" tvg-name="Radio RTL 102.5" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio RTL 102.5
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37564
+#EXTINF:-1 tvg-ID="" tvg-name="Radio DiscoItalia 80" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio DiscoItalia 80
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5144
+#EXTINF:-1 tvg-ID="" tvg-name="Radio m2o" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio m2o
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47559
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Fiume Ticino" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio Fiume Ticino
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6474
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Fiume Ticino Style" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Fiume Ticino Style
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47591
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Fiume Ticino Pop" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Fiume Ticino Pop
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47566
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Fiume Ticino Charme" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Fiume Ticino Charme
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47588
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Fiume Ticino Movida" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Fiume Ticino Movida
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47567
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Fiume Ticino Made In Italy" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Fiume Ticino Made In Italy
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47589
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Fiume Ticino Gold" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Fiume Ticino Gold
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47590
+#EXTINF:-1 tvg-ID="" tvg-name="One Dance Ticino" tvg-logo="https://onedancefm.ch/images/home-desk740.png" group-title="VIDEO MUSICA & RADIO",One Dance Ticino
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/50324
+#EXTINF:-1 tvg-ID="" tvg-name="Radio HipHop" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio HipHop
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5051
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Hits" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio Hits
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5052
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Deejay" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Deejay
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47558
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Musica Classica" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio Musica Classica
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5053
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 101" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio 101
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5143
+#EXTINF:-1 tvg-ID="" tvg-name="Radio RTO" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio RTO
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/6475
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Ibiza" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Ibiza
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47380
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Kiss Kiss" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Kiss Kiss
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47557
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Kiss Kiss Latina" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/R6DyE2LEgJ.jpg" group-title="VIDEO MUSICA & RADIO",Radio Kiss Kiss Latina
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/44613
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Kiss Kiss Teen Power" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Kiss Kiss Teen Power
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47543
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Kiss Kiss Hip Hop" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Kiss Kiss Hip Hop
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47544
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Kiss Kiss History Hits" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Kiss Kiss History Hits
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47553
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Kiss Kiss Hits" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Kiss Kiss Hits
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47554
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Kiss Kiss Rock" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Kiss Kiss Rock
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47555
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Kiss Kiss Sanremo Story" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Kiss Kiss Sanremo Story
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47556
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47378
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin Classic Rock" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin Classic Rock
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47507
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin Rock Hits" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin Rock Hits
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47508
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin Rock '70" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin Rock '70
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47525
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin Rock '80" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin Rock '80
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47526
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin Rock '90" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin Rock '90
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47532
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin Rock 2K" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin Rock 2K
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47533
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin Rock Alternative" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin Rock Alternative
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47534
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin Hard Rock" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin Hard Rock
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47535
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Virgin Rock Party" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Virgin Rock Party
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47536
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47482
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 Hits" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 Hits
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47481
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 Classics" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 Classics
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47485
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 Story" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 Story
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47486
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 Hip Hop & R'N'B" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 Hip Hop & R'N'B
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47487
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 InDaKlubb" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 InDaKlubb
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47488
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 Miami" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 Miami
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47489
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 Trap" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 Trap
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47490
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 2K & More" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 2K & More
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47491
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 Rap Italia" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 Rap Italia
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47492
+#EXTINF:-1 tvg-ID="" tvg-name="Radio 105 Dance 90" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio 105 Dance 90
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47493
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Monte Carlo" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio Monte Carlo
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/37560
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Monte Carlo Hits" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Monte Carlo Hits
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47381
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Monte Carlo Love Songs" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Monte Carlo Love Songs
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47387
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Monte Carlo 80" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Monte Carlo 80
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47388
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Monte Carlo 90" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Monte Carlo 90
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47389
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Monte Carlo Italia" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Monte Carlo Italia
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47390
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Monte Carlo Great Artists" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Monte Carlo Great Artists
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47391
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Monte Carlo Marine" tvg-logo="" group-title="VIDEO MUSICA & RADIO",Radio Monte Carlo Marine
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/47392
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Studio Più" tvg-logo="http://cdn.makeitapp.com/57177ec16897e/800x0/59bac76b97a9d.jpg" group-title="VIDEO MUSICA & RADIO",Radio Studio Più
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/52938
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Radio" tvg-logo="-" group-title="VIDEO MUSICA & RADIO",Radio Radio
+http://turbo-five.cc:29500/pobEVLSgnD/8gkQ0xRBiW/5156
